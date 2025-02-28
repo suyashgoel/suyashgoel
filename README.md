@@ -1,41 +1,43 @@
 # Hi, I'm Suyash Goel 👋  
-🚀 **Building AI solutions with real-world impact**  
+
+I'm a **Computer Science student at UC Davis** passionate about **AI**, **software engineering**, and building **startup-ready solutions**.  
 
 ## 🧠 Current Focus  
-- Leading the development of an **Explainable AI (XAI) platform**, helping researchers interpret complex vision models  
-- Researching advanced **deep learning in ophthalmology**, developing object detection and segmentation models for cell analysis  
+- Leading the development of an **Explainable AI (XAI) platform** to make vision models more interpretable for researchers  
+- Researching **computer vision in ophthalmology**, developing **cell detection and segmentation models** using synthetic datasets  
 
 ## 🔭 Technical Journey  
-I thrive at the intersection of AI research and software engineering:  
-- 🤖 **Custom Object Detection & Cell Segmentation** – Detecting subtle biological events  
-- 🎯 **Vision Transformers for Medical Imaging** – Enhancing interpretability with **state-of-the-art XAI**  
+I thrive at the intersection of **AI research** and **practical application**:  
+- 🤖 **Custom Cell Detection & Segmentation** – Detecting subtle biological occurrences  
+- 🎯 **Explainable AI for Vision Models** – Enhancing interpretability with custom techniques  
 - 🛠️ **Full-Stack Development** – Next.js, Flutter, MongoDB, PostgreSQL  
-- 👥 **Leading Agile Technical Teams** – Managing complex development cycles  
+- 👥 **Technical Leadership** – Managing Agile teams through complex development cycles  
 
 ## 👨‍💻 What I'm Building  
-- 🏥 **XAI for Medical Imaging** – Making AI models more interpretable  
-- 🧬 **Deep Learning Pipelines** – For ophthalmological data analysis  
-- 🎓 **Developer Education** – Supporting UC Davis tech community  
+- 🏗️ **XAI for Image Classifiers** – Helping researchers interpret AI decisions  
+- 🧬 **Deep Learning Pipelines** – Scalable AI solutions for ophthalmological data analysis  
+- 🎓 **Developer Education** – Supporting the UC Davis tech community  
 
 ## 🌱 Learning & Growing  
-- **Advanced AI** – Transformers, GANs, Diffusion Models  
-- **Startup & VC** – How AI companies scale  
-- **Product Thinking** – AI solutions that people find valuable  
+I'm constantly expanding my knowledge in:  
+- **Advanced AI** – CNNs, RNNs, Transformers, LLMs  
+- **Startup & VC** – Understanding how AI companies scale  
+- **Product Thinking** – Building AI solutions people value  
 
 ## 🏆 Projects  
 - 🩺 **SkinScreen** – AI-powered skin cancer detection (HackDavis Recognition)  
-- 🔍 **Explainable Vision Transformers** – Improving AI interpretability in medical imaging  
-- 🔑 **Password Manager App** – Full-stack Flutter & MERN project  
+- 🔍 **Explainable AI for Vision Models** – Enhancing model interpretability  
+- 🔑 **Password Manager App** – Full-stack Flutter & MERN solution  
 
 ## 💬 Beyond Tech  
-When I'm not coding:  
+When I'm not coding or researching:  
 - 🎧 **Listening to podcasts** – *Morning Brew Daily* is a favorite!  
 - 💪 **Working out & staying active**  
 - 🗣️ **Discussing politics & current events**  
 - ✈️ **Traveling & exploring new places**  
 
 ## 📫 Let's Connect!  
-I'm always up for discussing AI, startups, and innovative ideas.  
+I'm always open to discussing **AI, startups, and innovative projects**. Feel free to reach out!  
 
-📧 **Email**: sngoel@ucdavis.edu  
+📧 **Email**: [sngoel@ucdavis.edu](mailto:sngoel@ucdavis.edu)  
 🔗 **LinkedIn**: [linkedin.com/in/suyash-goel](https://linkedin.com/in/suyash-goel)  
