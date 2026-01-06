@@ -1,23 +1,19 @@
-### Hi, I'm Suyash 👋  
-CS @ UC Davis · Graduating Dec 2025  
-Drawn to building at the edge of AI and product
+### Hi, I'm Suyash
 
----
+I like building things from scratch, especially at the earliest stages: when nothing is clear yet and the people matter as much as the product.
 
-#### 🧠 What I’m into
-- Vision models & explainability  
-- Multi-agent systems, context engineering & orchestration  
-- Infra and backend for AI-native products  
-- Startups, VC, and product thinking
+I recently graduated from UC Davis with a CS degree, and spent my summer as a True Ventures Fellow and engineer at Digg. Now I'm figuring out what's next.
 
----
+**Some things I've worked on:**
+- Fullstack + infra at Digg: backend for the invite system that grew the platform beyond 25K users, migrations to protect user privacy, feature flags, caching optimizations
+- Multi-agent system for context-aware prompt-to-UI diagram generation at Goodnotes
+- InsightSearch AI – RAG pipeline for QuickVault by Veeva Systems
+- YOLO pipelines at UC Davis Health
+- SkinScreen – personal skin cancer detection and prevention tool (won Best Health Hack at HackDavis 2024)
+- Numa – voice agent for empathetic mental health triage (HackDavis 2025)
+- Deep learning research: heuristics for provable DNN repair and healthcare applications
 
-#### 💻 Recent Work
-- Fullstack + infra work at Digg (GraphQL, AWS) leading up to public launch
-- GAN-augmented segmentation & YOLO pipelines @ UC Davis Health  
-- Multi-agent UI generator for Goodnotes (Next.js, Vercel AI SDK)  
-- Numa – real-time voice triage agent (Whisper + GPT-4o + Cartesia)
+**What I'm drawn to:**
+Building things that don't yet exist, early-stage teams, and understanding what makes people tick.
 
----
-
-📫 [LinkedIn](https://www.linkedin.com/in/suyash-goel) · suyashgoel10@gmail.com
+📫 [suyashgoel.com](https://suyashgoel.com) · [LinkedIn](https://www.linkedin.com/in/suyash-goel) · suyashgoel10@gmail.com
