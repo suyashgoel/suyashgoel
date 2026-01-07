@@ -2,7 +2,7 @@
 
 I like building things from scratch, especially at the earliest stages: when nothing is clear yet and the people matter as much as the product.
 
-I recently graduated from UC Davis with a CS degree, and spent my summer as a True Ventures Fellow and engineer at Digg. Now I'm figuring out what's next.
+I recently graduated from UC Davis with a CS degree, and spent my summer as a True Ventures Fellow and engineer at Digg, while also serving as VP of Technology at CodeLab, UC Davis's largest software and design agency. Now I'm figuring out what's next.
 
 **Some things I've worked on:**
 - Fullstack + infra at Digg: backend for the invite system that grew the platform beyond 25K users, migrations to protect user privacy, feature flags, caching optimizations
