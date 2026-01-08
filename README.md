@@ -5,7 +5,7 @@ I like building things from scratch, especially at the earliest stages: when not
 I recently graduated from UC Davis with a CS degree, and spent my summer as a True Ventures Fellow and engineer at Digg, while also serving as VP of Technology at CodeLab, UC Davis's largest software and design agency. Now I'm figuring out what's next.
 
 **Some things I've worked on:**
-- Fullstack + infra at Digg: backend for the invite system that grew the platform beyond 25K users, migrations to protect user privacy, feature flags, caching optimizations
+- Fullstack + infra at Digg — backend for the invite system that grew the platform beyond 25K users, migrations to protect user privacy, feature flags, caching optimizations
 - Multi-agent system for context-aware prompt-to-UI diagram generation at Goodnotes
 - InsightSearch AI – RAG pipeline for QuickVault by Veeva Systems
 - YOLO pipelines at UC Davis Health
